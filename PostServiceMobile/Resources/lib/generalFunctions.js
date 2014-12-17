@@ -1,6 +1,6 @@
 function PostWebService(){
 	//The below URL is live so you can actually test against it
-	var url = "https://2b7c632082c224acfefc67b2ce79123a38333315.cloudapp.appcelerator.com/TestPostService";
+	var url = "https://a22ca66dae5c60d7615e4b9d55843fb9bc32475a.cloudapp.appcelerator.com/TestPostService";
 	//var url = "http://localhost:59032/TestPostService";
     Ti.API.info(url);
     
