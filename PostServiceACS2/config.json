@@ -2,7 +2,7 @@
   "routes":
   [
     { "path": "/", "callback": "application#index" },
-    { "path": "/TestPostService", "callback": "test#TestPostService", "method": "POST" }    
+    { "path": "/TestPostService", "callback": "test#TestPostService", "method": "POST" }
   ],
   "filters":
   [
