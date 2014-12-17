@@ -1,0 +1,8 @@
+#appname:PostServiceMobile
+#publisher:John Jardin
+#url:http://www.ukuvuma.co.za
+#image:appicon.png
+#appid:com.ukuvuma.postservicemobile
+#desc:Used to test the failing of Post Web Service Request to Node.ACS
+#type:mobile
+#guid:682554a5-fcb7-45cd-802b-ef277f0fbf5a
